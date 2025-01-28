@@ -24,6 +24,7 @@ h1 {
 /*/header*/
 
 /**main**/
+/***Section-1***/
 .box-1 {
     width: 600px;
     height: 40px;
@@ -62,8 +63,82 @@ h1 {
     vertical-align: middle;
     color: gray;
     background-color: white;
-    border-radius: 15%;
     border: 2px solid gray;
+    border-radius: 15%;
 }
 
+/****Section-2****/
+
+.Circle {
+    color: green;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    border: 2px solid green;
+    border-radius: 50%;
+}
+.Circle-2 {
+    color: red;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    border: 2px solid red;
+    border-radius: 50%;
+}
+
+.Middle {
+    display: inline-block;
+}
+
+.End {
+    width: 50px;
+    height: 15px;
+    font-size: x-small;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    background-color: rgb(48, 48, 248);
+    border: 3px solid rgb(48, 48, 248);
+    border-radius: 35%;
+}
+
+#Purple {
+    width: 50px;
+    height: 15px;
+    font-size: x-small;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    background-color: purple;
+    border: 3px solid purple;
+    border-radius: 35%;
+}
+
+#Green {
+    width: 50px;
+    height: 15px;
+    font-size: x-small;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    background-color: green;
+    border: 3px solid green;
+    border-radius: 35%;
+}
+
+#Orange {
+    width: 50px;
+    height: 15px;
+    font-size: x-small;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    background-color: orangered;
+    border: 3px solid orangered;
+    border-radius: 35%;
+}
 
