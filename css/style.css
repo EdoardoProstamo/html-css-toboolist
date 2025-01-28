@@ -142,3 +142,29 @@ h1 {
     border-radius: 35%;
 }
 
+#Pink {
+    width: 50px;
+    height: 15px;
+    font-size: x-small;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    background-color: pink;
+    border: 3px solid pink;
+    border-radius: 35%;
+}
+
+#Green-2 {
+    width: 50px;
+    height: 15px;
+    font-size: x-small;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    background-color: olive;
+    border: 3px solid olive;
+    border-radius: 35%;
+}
+
+
+
