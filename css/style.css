@@ -13,3 +13,14 @@ h1 {
     display: inline-block;
     padding: 10px;
 }
+
+.box-1 {
+    width: 600px;
+    height: 40px;
+    margin: 50px 200px 10px;
+}
+
+.box-2 {
+    width: 1000px;
+    height: 1000px;
+}
