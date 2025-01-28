@@ -9,15 +9,19 @@
 .Up {
     margin: 20px;
 }
+
 h1 {
     display: inline-block;
     padding: 10px;
 }
+/*/header*/
 
+/**main**/
 .box-1 {
     width: 600px;
     height: 40px;
     margin: 50px 200px 10px;
+    display: inline-block;
 }
 
 .box-2 {
@@ -25,3 +29,17 @@ h1 {
     height: 1000px;
     margin: 0px 200px 50px;
 }
+
+#Add-1 {
+    width: 40px;
+    height: 20px;
+}
+
+#Add-2 {
+    
+    width: 40px;
+    height: 20px;
+
+}
+
+
