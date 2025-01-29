@@ -48,8 +48,8 @@ h1 {
     padding: 5px 5px 5px;
     vertical-align: middle;
     color: white;
-    background-color: rgb(48, 48, 248);
-    border: 1px solid rgb(48, 48, 248);
+    background-color: #14aaf5;
+    border: 1px solid #14aaf5;
     border-radius: 15%;
 }
 
@@ -70,23 +70,23 @@ h1 {
 /****Section-2****/
 
 .Circle {
-    color: green;
+    color: #9fe5d9;
     width: 20px;
     height: 20px;
     text-align: center;
     display: inline-block;
     vertical-align: middle;
-    border: 2px solid green;
+    border: 2px solid #9fe5d9;
     border-radius: 50%;
 }
 .Circle-2 {
-    color: red;
+    color: #ff1010;
     width: 20px;
     height: 20px;
     text-align: center;
     display: inline-block;
     vertical-align: middle;
-    border: 2px solid red;
+    border: 2px solid #ff1010;
     border-radius: 50%;
 }
 
@@ -101,8 +101,8 @@ h1 {
     text-align: center;
     display: inline-block;
     color: white;
-    background-color: rgb(48, 48, 248);
-    border: 3px solid rgb(48, 48, 248);
+    background-color: #09a9ed;
+    border: 3px solid #09a9ed;
     border-radius: 35%;
 }
 
@@ -113,8 +113,8 @@ h1 {
     text-align: center;
     display: inline-block;
     color: white;
-    background-color: purple;
-    border: 3px solid purple;
+    background-color: #ab5de6;
+    border: 3px solid #ab5de6;
     border-radius: 35%;
 }
 
@@ -125,8 +125,8 @@ h1 {
     text-align: center;
     display: inline-block;
     color: white;
-    background-color: green;
-    border: 3px solid green;
+    background-color: #2cc6ab;
+    border: 3px solid #2cc6ab;
     border-radius: 35%;
 }
 
@@ -137,8 +137,8 @@ h1 {
     text-align: center;
     display: inline-block;
     color: white;
-    background-color: orangered;
-    border: 3px solid orangered;
+    background-color: #ff9b00;
+    border: 3px solid #ff9b00;
     border-radius: 35%;
 }
 
@@ -149,8 +149,8 @@ h1 {
     text-align: center;
     display: inline-block;
     color: white;
-    background-color: pink;
-    border: 3px solid pink;
+    background-color: #ec4a9d;
+    border: 3px solid #ec4a9d;
     border-radius: 35%;
 }
 
@@ -161,8 +161,8 @@ h1 {
     text-align: center;
     display: inline-block;
     color: white;
-    background-color: olive;
-    border: 3px solid olive;
+    background-color: #a3d116;
+    border: 3px solid #a3d116;
     border-radius: 35%;
 }
 
